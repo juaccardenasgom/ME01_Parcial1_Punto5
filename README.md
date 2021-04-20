@@ -1,3 +1,11 @@
+# Integrantes
+
+- Juan Camilo Cárdenas Gómez
+- Cristian Camilo García Barrera
+- Laura Natalia González Mora
+- Danier Elian González Ordóñez
+- Daniel Felipe Solano León
+
 # Punto 5
 
 ## Enunciado

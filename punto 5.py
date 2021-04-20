@@ -1,8 +1,18 @@
+"""
+Integrantes: 
+
+- Juan Camilo Cárdenas Gómez
+- Cristian Camilo García Barrera
+- Laura Natalia González Mora
+- Danier Elian González Ordóñez
+- Daniel Felipe Solano León
+"""
+
 from numpy.random import default_rng
 rng = default_rng()
 
-u1 = 6
-u2 = 4
+u1 = 3
+u2 = 2
 replications = 10000
 
 times_a_ocurred = 0
